@@ -32,3 +32,5 @@
 *.app
 
 MyLib
+x64
+Debug
