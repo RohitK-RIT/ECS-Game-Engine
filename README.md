@@ -1,0 +1,2 @@
+- C++ game engine
+- OpenGL based (for proof of concept) 
